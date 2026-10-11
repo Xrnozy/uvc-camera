@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gabay UVC</string>
+    <string name="usb_camera_detected">USB camera detected</string>
+    <string name="show_debug">Show debug</string>
+    <string name="hide_debug">Hide debug</string>
+    <string name="uvc_waiting">Waiting for USB webcam… Plug in via OTG and allow USB access.</string>
+    <string name="uvc_connected">USB webcam connected</string>
+    <string name="uvc_permission_needed">Allow USB camera access</string>
+    <string name="uvc_stream_fps">Stream: %1$.1f FPS · %2$s</string>
+    <string name="uvc_status_label">Status: %1$s</string>
+</resources>
